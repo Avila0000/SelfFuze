@@ -1,0 +1,21 @@
+body{
+    background-color: #0096cc;
+    background-image: url('/fuzeApp/static/images/corrugation.png');
+}
+.navbar{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+h1{
+    display: flex;
+    justify-content: center;
+    color: #faa20a;
+    opacity: .5;
+    margin: 20px;
+}
+li *{
+    text-decoration: none;
+    display: flex;
+}
