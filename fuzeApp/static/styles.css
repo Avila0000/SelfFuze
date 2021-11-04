@@ -19,3 +19,11 @@ li *{
     text-decoration: none;
     display: flex;
 }
+.aboutParagraph{
+    display: inline-block;
+}
+.bookImg{
+    /* justify-content: center; */
+    align-items: center;
+    max-height: 800px;
+}
